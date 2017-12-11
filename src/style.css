@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'MyFont';
+	src:  url('./fonteot.eot') format('eot');
+	font-weight: 600;
+	font-style: normal;
+}
+
+.hello {
+	color: blue;
+}
+.hello img {
+	height: 50px;
+	width: 50px;
+	font-family: 'MyFont';
+	vertical-align: middle;
+}
